@@ -23,7 +23,7 @@
 <li><p><b>Numpy</b></p></li>
 <li><p><b>Seaborn</b></p></li>
 <li><p><b>Matplotlib</b></p></li>
-<li><p><bSklearn</b></p></li>
+<li><p><b>Sklearn</b></p></li>
 </ul>
 
 
